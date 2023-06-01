@@ -1,0 +1,39 @@
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe.config
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.AssemblyReference.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Form1.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.GenerateResource.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Examenes\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CopyComplete
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe.config
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.pdb
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.AssemblyReference.cache
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Form1.resources
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.GenerateResource.cache
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CopyComplete
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.exe
+C:\Users\eandr\Escritorio\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe.config
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\bin\Debug\Simon-Dice.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.AssemblyReference.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Form1.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.GenerateResource.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.csproj.CopyComplete
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Simon-Dice\Simon-Dice\obj\Debug\Simon-Dice.pdb
